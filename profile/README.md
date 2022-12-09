@@ -12,6 +12,7 @@ Please check out my tableau [creations/dashboards](https://public.tableau.com/ap
 <img height="450em" width="600em" src="https://github.com/Tableau-Project-Solutions/.github/blob/main/sales.png" align = "center"/>
 </p>
 
+<br><br/>
 It's possible to use Tableau Prep Builder for automating data cleansing tasks and building refreshable pipelines. It's simple to use, however it's still lacking behind SQL or even Power Query options.
 
 
