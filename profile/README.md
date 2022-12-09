@@ -5,7 +5,7 @@ Tableau is a collaborative data visualization software for organizations working
 Please check out my tableau [creations/dashboards](https://public.tableau.com/app/profile/martina.bohunicka2479) on tableau public profile.<br><br/>
 
 <p align="center">
-<img height="450em" width="6000em" src="https://github.com/Tableau-Project-Solutions/.github/blob/main/bees.png" align = "center"/>
+<img height="450em" width="600em" src="https://github.com/Tableau-Project-Solutions/.github/blob/main/bees.png" align = "center"/>
 </p>
 
 <p align="center">
